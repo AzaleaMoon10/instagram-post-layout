@@ -103,6 +103,7 @@ a {
 
 .header-icon, .title-icon {
     font-size: 40px;
+    padding-right: 5px;
 }
 
 .body-text > p {
